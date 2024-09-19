@@ -19,7 +19,7 @@ The system focuses on identifying fraudulent activities in banking, tracking cus
 
 ## Team Members
 - Prachi Ganapatrao Pradhan          -- 002339613
-- Bhagyashri Avinash Pagar           --
+- Bhagyashri Avinash Pagar           -- 002310690
 - Shrutkeerti Dhananjay Sangolkar    -- 002304742
 - Nirnay Reddy Gaddam                -- 002879525
 - Umang Mistry                       --
